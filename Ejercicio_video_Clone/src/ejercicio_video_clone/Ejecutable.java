@@ -25,6 +25,7 @@ public class Ejecutable {
         lista.push(new Person(5, "Mario", 30));
         lista.push(new Person(6, "María", 35));
         lista.push(new Person(7, "Sandra", 36));
+        lista.push(new Person(8, "Perico", 68));
 
         //System.out.println(lista.pop());
        // System.out.println(lista);
